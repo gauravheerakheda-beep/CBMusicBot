@@ -1,6 +1,6 @@
-<h2 align="centre">🎶 Cyber Music Bot 🎶</h2>
+<h2 align="centre">🎶 Apple Music Bot 🎶</h2>
 
-### Cyber Music is a telegram bot project that's allow you to play music on telegram voice chat group.
+### Apple Music is a telegram bot project that's allow you to play music on telegram voice chat group.
 
 <p align="center"><a href="https://t.me/CyberMusicBot"><img src="https://telegra.ph/file/a884f8f101263a935b154.jpg" width="300"></a></p>
 <p align="center">
